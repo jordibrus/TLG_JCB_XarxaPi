@@ -135,7 +135,7 @@
         "The user {} failed to resolve the captcha. The \"user\" was restricted and won't be able to send media messages (image, audio, video, etc.) for 24h.",
 
     "CAPTCHA_SOLVED":
-        "Heu resolt el captcha correctament. Ja sou un usuari verificat.\nBenvingut/da al grup, {}",
+        "Heu resolt el captcha, {}. Ara només heu d'indicar el vostre identificador públic d'usuari i sereu benvinguts al grup!",
 
     "CAPTCHA_INCORRECT_0":
         "Aquest codi no és correcte. Intenteu-ho una altra vegada...",
@@ -147,7 +147,7 @@
         "That is not the correct number. Check closely, you need to solve the math operation...",
 
     "CAPTCHA_FAIL_KICK":
-        "{} no aconsegueixen resoldre el captcha. L'\"usuari\" ha estat expulsat.",
+        "{} no ha aconseguit resoldre el captcha i ha estat expulsat.",
 
     "NEW_USER_KICK_NOT_RIGHTS":
         "L'\"usuari\" {} hauria de ser expulsat, però no se m'han donat els permisos d'administració necessaris per a expulsar usuaris del grup.",
