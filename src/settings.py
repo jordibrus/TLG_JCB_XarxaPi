@@ -123,7 +123,7 @@ SETTINGS = {
     "CAPTCHABOT_INIT_CAPTCHA_CHARS_MODE": "nums",
 
     # Initial remove result messages group configuration
-    "CAPTCHABOT_INIT_RM_RESULT_MSG": True,
+    "CAPTCHABOT_INIT_RM_RESULT_MSG": False,
 
     # Initial remove welcome message group configuration
     "CAPTCHABOT_INIT_RM_WELCOME_MSG": True,
